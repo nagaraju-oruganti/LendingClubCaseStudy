@@ -1,0 +1,5 @@
+Links
+Github repo: https://github.com/nagaraju-oruganti/LendingClubCaseStudy
+PPT link (pdf): https://github.com/nagaraju-oruganti/LendingClubCaseStudy/blob/master/docs/LendingClub%20Case%20Study.pdf
+Juypter Notebook link: https://github.com/nagaraju-oruganti/LendingClubCaseStudy/blob/master/notebooks/Nagaraju_Oruganti.ipynb
+Readme.md link: https://github.com/nagaraju-oruganti/LendingClubCaseStudy/blob/master/README.md
